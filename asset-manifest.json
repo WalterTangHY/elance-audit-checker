@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/elance-audit-checker/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/elance-audit-checker/static/js/main.ab2a4018.chunk.js",
-    "main.js.map": "/elance-audit-checker/static/js/main.ab2a4018.chunk.js.map",
+    "main.js": "/elance-audit-checker/static/js/main.b71028f4.chunk.js",
+    "main.js.map": "/elance-audit-checker/static/js/main.b71028f4.chunk.js.map",
     "runtime-main.js": "/elance-audit-checker/static/js/runtime-main.ef779a25.js",
     "runtime-main.js.map": "/elance-audit-checker/static/js/runtime-main.ef779a25.js.map",
     "static/js/2.3ca6371c.chunk.js": "/elance-audit-checker/static/js/2.3ca6371c.chunk.js",
     "static/js/2.3ca6371c.chunk.js.map": "/elance-audit-checker/static/js/2.3ca6371c.chunk.js.map",
     "index.html": "/elance-audit-checker/index.html",
-    "precache-manifest.2e5a7cbec7cb4b6e5d4aa76bfcb5914f.js": "/elance-audit-checker/precache-manifest.2e5a7cbec7cb4b6e5d4aa76bfcb5914f.js",
+    "precache-manifest.5fb32e54412e6aa8e3e2819e9c6cb7bb.js": "/elance-audit-checker/precache-manifest.5fb32e54412e6aa8e3e2819e9c6cb7bb.js",
     "service-worker.js": "/elance-audit-checker/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/elance-audit-checker/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.3ca6371c.chunk.js.LICENSE.txt": "/elance-audit-checker/static/js/2.3ca6371c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/elance-audit-checker/static/media/logo.5d5d9eef.svg"
+    "static/js/2.3ca6371c.chunk.js.LICENSE.txt": "/elance-audit-checker/static/js/2.3ca6371c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ef779a25.js",
     "static/js/2.3ca6371c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ab2a4018.chunk.js"
+    "static/js/main.b71028f4.chunk.js"
   ]
 }
