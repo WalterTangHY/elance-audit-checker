@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elance-audit-checker/precache-manifest.6de7bab18ea51eb72f584214cb5c80f9.js"
+  "/elance-audit-checker/precache-manifest.6805d87a20d1104c5cd5ada6b26926ff.js"
 );
 
 self.addEventListener('message', (event) => {
